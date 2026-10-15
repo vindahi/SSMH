@@ -1,4 +1,4 @@
-# [TOMM Accepted]SSMH: Semantic Self‑refinement Multi-modal Hashing for Multi-modal Retrieval
+# [TOMM Accepted] SSMH: Semantic Self‑refinement Multi-modal Hashing for Multi-modal Retrieval
 
 ## First
  - python                    3.8.18
